@@ -2,6 +2,7 @@ name: Cspin
 favicon: null
 layout_spectrum: 0.2916376171633601
 typography_spectrum: 0.13249722216278315
+title: "Cspin's Test Site"
 cta:
   domain: null
   bucket: null
